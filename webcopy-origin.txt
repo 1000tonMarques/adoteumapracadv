@@ -1,0 +1,160 @@
+Uri: https://adoteumapraca.curitiba.pr.gov.br/
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\index.htm
+Content Type: text/html
+
+Uri: https://adoteumapraca.curitiba.pr.gov.br/Include/Design/fonts/icomoon.eot?
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\Include\Design\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adoteumapraca.curitiba.pr.gov.br/Include/Design/fonts/icomoon.eot?v=2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\Include\Design\fonts\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adoteumapraca.curitiba.pr.gov.br/Include/Design/fonts/icomoon.svg?v=2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\Include\Design\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://adoteumapraca.curitiba.pr.gov.br/Include/Design/fonts/icomoon.ttf?v=2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\Include\Design\fonts\icomoon.ttf
+Content Type: application/octet-stream
+
+Uri: https://adoteumapraca.curitiba.pr.gov.br/Include/Design/fonts/icomoon.woff?v=2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\Include\Design\fonts\icomoon.woff
+Content Type: font/x-woff
+
+Uri: https://adoteumapraca.curitiba.pr.gov.br/landingpage/adoteumapraca/Include/Design/css/estilos.min.css
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\landingpage\adoteumapraca\Include\Design\css\estilos.min.css
+Content Type: text/css
+
+Uri: https://adoteumapraca.curitiba.pr.gov.br/landingpage/adoteumapraca/Include/Design/img/imagem1.jpg
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\landingpage\adoteumapraca\Include\Design\img\imagem1.jpg
+Content Type: image/jpeg
+
+Uri: https://adoteumapraca.curitiba.pr.gov.br/landingpage/adoteumapraca/Include/Design/img/imagem2.jpg
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\landingpage\adoteumapraca\Include\Design\img\imagem2.jpg
+Content Type: image/jpeg
+
+Uri: https://adoteumapraca.curitiba.pr.gov.br/landingpage/adoteumapraca/Include/js/scripts.js
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\landingpage\adoteumapraca\Include\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://cdn.curitiba.pr.gov.br/identidadeVisual/barraTopo/1.0.min.js
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\identidadeVisual\barraTopo\1.0.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.ici.curitiba.org.br/fontes/roboto-black.woff
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\fontes\roboto-black.woff
+Content Type: font/x-woff
+
+Uri: https://cdn.ici.curitiba.org.br/fontes/roboto-black.woff2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\fontes\roboto-black.woff2
+Content Type: application/font-woff2
+
+Uri: https://cdn.ici.curitiba.org.br/fontes/roboto-bold.woff
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\fontes\roboto-bold.woff
+Content Type: font/x-woff
+
+Uri: https://cdn.ici.curitiba.org.br/fontes/roboto-bold.woff2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\fontes\roboto-bold.woff2
+Content Type: application/font-woff2
+
+Uri: https://cdn.ici.curitiba.org.br/fontes/roboto-medium.woff
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\fontes\roboto-medium.woff
+Content Type: font/x-woff
+
+Uri: https://cdn.ici.curitiba.org.br/fontes/roboto-medium.woff2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\fontes\roboto-medium.woff2
+Content Type: application/font-woff2
+
+Uri: https://cdn.ici.curitiba.org.br/fontes/roboto-regular.woff
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\fontes\roboto-regular.woff
+Content Type: font/x-woff
+
+Uri: https://cdn.ici.curitiba.org.br/fontes/roboto-regular.woff2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\fontes\roboto-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://cdn.jsdelivr.net/npm/beerslider/dist/BeerSlider.min.css
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\npm\beerslider\dist\BeerSlider.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/beerslider/dist/BeerSlider.min.js
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\npm\beerslider\dist\BeerSlider.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\npm\bootstrap@5.3.0\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\npm\bootstrap@5.3.0\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\ajax\libs\font-awesome\6.4.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.ttf
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.woff2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\leaflet.markercluster@1.5.3\dist\leaflet.markercluster.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\leaflet.markercluster@1.5.3\dist\MarkerCluster.css
+Content Type: text/css
+
+Uri: https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\leaflet.markercluster@1.5.3\dist\MarkerCluster.Default.css
+Content Type: text/css
+
+Uri: https://unpkg.com/leaflet@1.9.4/dist/images/layers-2x.png
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\leaflet@1.9.4\dist\images\layers-2x.png
+Content Type: image/png
+
+Uri: https://unpkg.com/leaflet@1.9.4/dist/images/layers.png
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\leaflet@1.9.4\dist\images\layers.png
+Content Type: image/png
+
+Uri: https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\leaflet@1.9.4\dist\images\marker-icon.png
+Content Type: image/png
+
+Uri: https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\leaflet@1.9.4\dist\leaflet.css
+Content Type: text/css
+
+Uri: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+File Name: C:\DOIS VIZINHOS - PR\PROJETO ADOTE UMA PRAÇA\APRESENTAÇÃO\adoteumapraca.curitiba.pr.gov.br\leaflet@1.9.4\dist\leaflet.js
+Content Type: text/javascript
+
